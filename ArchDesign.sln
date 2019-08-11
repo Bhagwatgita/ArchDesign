@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchDesign", "ArchDesign\ArchDesign.csproj", "{97AB825B-D880-4EB2-A3D9-BDD45BFF41E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogExt", "SerilogExt\SerilogExt.csproj", "{DBC04CA7-0ECD-4FD2-B453-6210394315B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AB825B-D880-4EB2-A3D9-BDD45BFF41E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AB825B-D880-4EB2-A3D9-BDD45BFF41E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AB825B-D880-4EB2-A3D9-BDD45BFF41E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AB825B-D880-4EB2-A3D9-BDD45BFF41E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC04CA7-0ECD-4FD2-B453-6210394315B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC04CA7-0ECD-4FD2-B453-6210394315B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC04CA7-0ECD-4FD2-B453-6210394315B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC04CA7-0ECD-4FD2-B453-6210394315B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E359C3DD-6D31-43D0-BEE9-79F681590A72}
+	EndGlobalSection
+EndGlobal
